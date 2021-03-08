@@ -6,12 +6,11 @@ hero: ./images/react-seulflix.PNG
 excerpt: React with API
 ---
 
-# HELLO WORLD
+# React Seulflix
 
-im seulhee
+React with API
 
-> learning frontend
-> huhu
+> nomadcoders의 api 사용
 
 ```js
 console.log("hello");
