@@ -8,9 +8,9 @@ excerpt: React with API
 
 # React Seulflix
 
-## React with API
+### React with API
 
-### nomadcoders의 api 사용
+#### nomadcoders의 api 사용
 
 ```js
 getMovies = async () => {
@@ -27,7 +27,7 @@ getMovies = async () => {
 };
 ```
 
-### Render Movies
+#### Render Movies
 
 ```js
 
@@ -54,6 +54,6 @@ render() {
     );
 ```
 
-```terminal
+<!-- ```terminal
 git add .
-```
+``` -->
