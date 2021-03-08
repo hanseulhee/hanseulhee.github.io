@@ -1,9 +1,9 @@
 ---
-title: first post
+title: React Seulflix
 author: seulhee
-date: 2021-03-07
-hero: ./images/hero.jpg
-excerpt: test of posting
+date: 2021-02-25
+hero: ./images/react-seulflix.PNG
+excerpt: React with API
 ---
 
 # HELLO WORLD

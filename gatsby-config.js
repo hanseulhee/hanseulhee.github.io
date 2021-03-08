@@ -51,7 +51,7 @@ module.exports = {
         name: `Novela by Narative`,
         short_name: `Novela`,
         start_url: `/`,
-        background_color: `#fff`,
+        background_color: `red`,
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
